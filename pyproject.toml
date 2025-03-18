@@ -11,7 +11,7 @@ dependencies = [
 [project.scripts]
 kickoff = "hello_world.main:kickoff"
 plot = "hello_world.main:plot"
-run_crew = "hello_world.main:kickoff"
+kickoff_ai = "hello_world.main:kickoff"
 
 
 [build-system]
